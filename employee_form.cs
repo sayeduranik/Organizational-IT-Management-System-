@@ -17,12 +17,6 @@ namespace Organizations_IT_Problem_complain_management
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            work_list list= new work_list();
-            list.Show();
-            this.Hide();
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {
